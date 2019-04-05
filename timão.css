@@ -1,0 +1,88 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+
+}
+
+.footer {
+     color: #000000;
+      text-align:center;
+  }    
+.gol{
+	color: #000000;
+	text-align:center;
+}
+
+.arena {
+	color: #000000;
+	text-align: center;
+}
+
+body{
+	color: #000000;
+   font-family: 'Cardo' serif;
+   text-align: center;
+
+
+}
+
+.rtrt{
+	text-align: center;
+
+}
+
+
+.sport{
+
+	     color:#551A8B;
+	     text-align: center;
+
+}
+
+.oioi{
+	color: #551A8B;
+	text-align: center;
+}
+
+.futebol{
+
+	  color: #000000;
+}
+ .titi{
+ 	color: #000000;
+ 	text-align:center;
+ }
+
+.end{
+ 
+      background-color:  blue;
+
+  }
+
+  .hino{
+
+       text-align: center;
+       border-radius: 10px 20px;
+    
+
+  }
+
+.xuxu{
+
+	text-align: center;
+
+}
+
+body{
+	background-image: url(corinthians.svg);
+	background-repeat: no-repeat;
+	background-size: 100vw 400vh;
+	
+
+}
+.pow{
+	display: inline;
+	color: #000000;
+	margin: 20px;
+}

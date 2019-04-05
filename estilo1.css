@@ -1,0 +1,84 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+
+}
+
+.footer {
+     color: #551A8B;
+      text-align:center;
+  }    
+.gol{
+	color: #551A8B;
+	text-align:center;
+}
+
+.arena {
+	color: #551A8B;
+	text-align: center;
+}
+
+body{
+	color:#551A8B;
+font-family: 'Cardo', serif;
+text-align: center;
+
+
+}
+
+.rtrt{
+	text-align: center;
+
+}
+
+
+.sport  {
+
+	     color:#551A8B;
+	     text-align: center;
+
+
+}
+
+.futebol {
+
+
+	  color: #551A8B;
+}
+ .titi{
+ 	color: #551A8B;
+ 	text-align:center;
+ }
+.end {
+ 
+      background-color:  blue;
+      color: #000000
+
+  }
+  .hino{
+
+       text-align: center;
+       border-radius: 10px 20px;
+    
+
+  }
+.xuxu{
+	text-align: center;
+}
+
+body{
+	background-image: url(cartola-fc.jpg);
+	background-repeat: no-repeat;
+	background-size: 100vw 400vh;
+	
+
+}
+.pow{
+	display: inline;
+	color: #551A8B;
+	margin: 20px;
+}
+ .jogadores{
+ 	text-align: center;
+ }
